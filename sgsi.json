@@ -1,9 +1,9 @@
 {
-  "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
+  "rom_url": "https://8qgdmsf3.v1d.szbdyd.com:6331/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18_Pro/9.0.1.3/cn/20210906042726/90744c3a/update.zip?f_ver=v1&max_age=7776000&r=KyRFJjRCa2sAJzpbGSoqIm09VD89DWonCSNncAc5NTAiIlR5ARQ9KQNhJVMHMS12ew9hJChXfWpWYHkYXWQ7KWxiAWR2SH10UH58BFl5bmh6YAZicxt3JUk7OFIPPz1pOTlBLCBUOCQcKnUJPi1YDS82dg%3D%3D&xyip=183.199.82.132&xyct=16&xysc=1&xy_rid=zY0W4GiS7jpDDq",
   "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
   "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
-  "make_miui": true,
-  "make_flyme": false,
+  "make_miui": false,
+  "make_flyme": true,
   "make_coloros": false,
   "make_h2os": false,
   "make_smartisanos": false,
